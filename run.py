@@ -74,7 +74,7 @@ MANIFEST = {
         {
             "type": "tv",
             "id": "tv_channels",
-            "name": "MammaMia",
+            "name": "MammaMiaMS",
             "behaviorHints": {
                 "configurable": True,
                 "configurationRequired": True
